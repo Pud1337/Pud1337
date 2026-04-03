@@ -3,8 +3,6 @@
 
 <img allign="left" alt="Arthur's Stats!" src="https://github-profile-trophy-tawny.vercel.app/api?username=Pud1337&show_icons=true&hide_borders=true&theme=transparent&title=-Issues, -PullRequest, -Reviews " />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pud1337&label=Profile views&color=0e75b6&style=flat" alt="Pud1337" /> </p>
-
 <img allign="left" alt="Arthur's Stats!" src="https://github-readme-stats-five-rosy-83.vercel.app/api?username=Pud1337&show_icons=true&hide_borders=true&theme=transparent" />
 
 <!--START_SECTION:activity-->
