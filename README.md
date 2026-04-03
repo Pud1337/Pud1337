@@ -4,8 +4,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <!--
 **Pud1337/Pud1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
