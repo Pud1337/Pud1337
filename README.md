@@ -4,7 +4,8 @@
 
 <!--START_SECTION:activity-->
 
-<img src="https://novatorem-awzz.vercel.app/api/orchestrator" alt="pud's now playing" width="350" />
+[<img src="https://novatorem-awzz.vercel.app/api/orchestrator" alt="pud's now playing" width="350" />]
+(https://open.spotify.com/user/doge_zuero)
 
 <!--
 **Pud1337/Pud1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
