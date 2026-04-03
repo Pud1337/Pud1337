@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img allign="left" alt="Arthur's Stats!" src="https://github-readme-stats-pud.vercel.app/api?username=Pud1337&show_icons=true&hide_borders=true" />
+<img allign="left" alt="Arthur's Stats!" src="https://github-readme-stats-five-rosy-83.vercel.app/api?username=Pud1337&show_icons=true&hide_borders=true" />
 
 <!--
 **Pud1337/Pud1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
