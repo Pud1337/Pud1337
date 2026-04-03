@@ -4,7 +4,7 @@
 
 <!--START_SECTION:activity-->
 
-<img src="novatorem-awzz-nwvwr7hu3-pud.vercel.app" alt="pud's now playing" width="350" />
+<img src="https://novatorem-awzz-nwvwr7hu3-pud.vercel.app" alt="pud's now playing" width="350" />
 
 <!--
 **Pud1337/Pud1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
