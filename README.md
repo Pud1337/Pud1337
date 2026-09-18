@@ -1,11 +1,5 @@
 # Hi , I'm Arthur - aka pud 
 
-- 💬 Ask me about **My favorite music genre**
-
-- 📫 How to reach me **discord: notpud**
-
-- ⚡ Fun fact **I think im funny**
-
 [<img src="https://novatorem-awzz.vercel.app/api/orchestrator" alt="pud's now playing" width="350" />](https://open.spotify.com/user/doge_zuero)
 
 <h3 align="left">Connect with me:</h3>
